@@ -47,6 +47,13 @@ Enhancements (Bonus Points)
 
 <br />
 
+## How to submit
+
+- Fork and clone this repo
+- Once you have completed the assignment, push your code to your forked repository and share the link with us
+
+<br />
+
 ## Evaluation Criteria
 
 - Completeness of functionality, according to the given requirements.
