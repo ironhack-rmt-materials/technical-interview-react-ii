@@ -24,9 +24,9 @@ GET https://www.googleapis.com/books/v1/volumes?q=harry%20potter
 
 ## Requirements
 
-Search Functionality
-- Your app should include a search bar where users can enter book titles.
-- Based on user's input, fetch data from the Google Books API and display a list of books (show book titles, authors, and cover images from the API response).
+Functionality to search books & display a list of books:
+- Your app should include an input field where users can enter book titles.
+- Based on user's input, fetch data from the Google Books API and display a list of books (for each book, display the title, author, and cover image from the API response).
 - Handle loading and error states.
 
 <br />
